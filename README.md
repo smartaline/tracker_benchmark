@@ -44,7 +44,7 @@ The notes for the folders:
 	
 （2）不同影响因素对应的成功图和精度图
 	
-  ![不同影响因素对应的成功图和精度图](https://github.com/smartaline/tracker_benchmark/blob/main/results/roc.png)
+  ![不同影响因素对应的成功图和精度图](https://github.com/smartaline/tracker_benchmark/blob/main/results/OPE.png)
 	
 （3）9个算法跟踪12个视频的结果
 	
