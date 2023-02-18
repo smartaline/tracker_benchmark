@@ -35,3 +35,7 @@ The notes for the folders:
 	* perfPlot.m is the main function for drawing performance plots.
 		- It will call 'genPerfMat.m' to generate the values for plots.
 	* drawResultBB.m is the main function for drawing bounding boxes (BBs) of different trackers on each frame	
+3.results
+  ![跟踪的平均覆盖率](https://github.com/smartaline/tracker_benchmark/blob/main/results/AverageCoverage.png)
+  ![不同影响因素对应的成功图和精度图](https://github.com/smartaline/tracker_benchmark/blob/main/results/roc.png)
+  ![跟踪的平均覆盖率](https://github.com/smartaline/tracker_benchmark/blob/main/results/tracker_result.png)
