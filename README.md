@@ -57,6 +57,6 @@ If you find this project useful for your research, please use the following BibT
 
     @contact{15961708129@163.com,
       title={Objects as Points},
-      author={bleakie},
+      author={Alin.Wang},
       year={2017}
     }
