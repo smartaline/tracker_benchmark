@@ -39,10 +39,15 @@ The notes for the folders:
 3.results
 
 （1）跟踪的平均覆盖率
+	
   ![跟踪的平均覆盖率](https://github.com/smartaline/tracker_benchmark/blob/main/results/AverageCoverage.png)
+	
 （2）不同影响因素对应的成功图和精度图
+	
   ![不同影响因素对应的成功图和精度图](https://github.com/smartaline/tracker_benchmark/blob/main/results/roc.png)
+	
 （3）9个算法跟踪12个视频的结果
+	
   ![9个算法跟踪12个视频的结果](https://github.com/smartaline/tracker_benchmark/blob/main/results/tracker_result.png)
 
 
